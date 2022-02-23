@@ -8,7 +8,7 @@ class RiotApiUrl
 {
 
   static final String profileVer = "12.4.1";
-  static final String apiKey = "api_key"; //api key here
+  static final String apiKey = "api key here"; //api key here
 
   static String lolUserByName(String name_) {
     return "https://kr.api.riotgames.com/lol/summoner/v4/summoners/by-name/${name_}?api_key=$apiKey";

@@ -1,0 +1,61 @@
+{
+  "data" :
+  [
+    {
+      "KoreanName" : "B.F.대검",
+      "Index" : 0,
+      "IsComplete" : false,
+      "Materials" : [""],
+      "Description" : "공격력 +10"
+    },
+    {
+      "KoreanName" : "곡궁",
+      "Index" : 1,
+      "IsComplete" : false,
+      "Materials" : [""],
+      "Description" : "공격 속도 +10"
+    },
+    {
+      "KoreanName" : "죽음의 검",
+      "Index" : 2,
+      "IsComplete" : true,
+      "Materials" : ["B.F.대검" , "B.F.대검"],
+      "Description" : "장착 시 추가 공격력 50/75/100 획득"
+    },
+    {
+      "KoreanName" : "쇠사슬 조끼",
+      "Index" : 3,
+      "IsComplete" : false,
+      "Materials" : [""],
+      "Description" : "방어력 +20"
+    },
+    {
+      "KoreanName" : "음전자 망토",
+      "Index" : 4,
+      "IsComplete" : false,
+      "Materials" : [""],
+      "Description" : "마법 저항력 +20"
+    },
+    {
+      "KoreanName" : "쓸데없이 큰 지팡이",
+      "Index" : 5,
+      "IsComplete" : false,
+      "Materials" : [""],
+      "Description" : "주문력 +10"
+    },
+    {
+      "KoreanName" : "여신의 눈물",
+      "Index" : 6,
+      "IsComplete" : true,
+      "Materials" : [""],
+      "Description" : "마나 +10"
+    },
+    {
+      "KoreanName" : "덤불 조끼",
+      "Index" : 7,
+      "IsComplete" : true,
+      "Materials" : ["쇠사슬 조끼","쇠사슬 조끼"],
+      "Description" : "방어력 +70"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "data" :
+  [
+    {
+      "Name": "Nocturne",
+      "KoreanName" : "녹턴",
+      "RiotName": "TFT6_Nocturne",
+      "Rarity": 0,
+      "Origins": ["마법공학"],
+      "Classes": ["암살자"],
+      "RecommendedItems": ["벤시의 발톱","서풍","얼어붙은 심장","지크의 전령"],
+      "SkillName" : "말할 수 없는 공포",
+      "SkillDescription" : "녹턴이 대상을 공포에 질리게 해 잠시 동안 기절시키고, 기절 지속시간 동안 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Darius",
+      "KoreanName" : "다리우스",
+      "RiotName": "TFT6_Darius",
+      "Rarity": 0,
+      "Origins": ["범죄조직"],
+      "Classes": ["경호대"],
+      "RecommendedItems": ["덤불조끼","서풍","즈롯 차원문","침묵의 장막"],
+      "SkillName" : "학살",
+      "SkillDescription" : "다리우스가 도끼를 휘둘러 마법 피해를 입히고, 도끼에 맞은 적 유닛당 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Brand",
+      "KoreanName" : "브랜드",
+      "RiotName": "TFT_Brand",
+      "Rarity": 0,
+      "Origins": ["연미복"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["마학공학 총검","모렐로노미콘","무한의 대검","보석 건틀릿"],
+      "SkillName" : "불태우기",
+      "SkillDescription" : "브랜드가 가장 가까운 적에게 불덩이를 발사해 마법 피해를 입히고 4초간 불태웁니다. 대상이 이미 불타는 상태라면 추가 마법 피해를 입고 잠시 동안 기절시킵니다. VIP 추가 효과: 브랜드가 두 번째 불덩이를 다른 근처 대상에게 발사해 (불타는 적 우선) 30% 감소한 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Poppy",
+      "KoreanName" : "뽀삐",
+      "RiotName": "TFT_Poppy",
+      "Rarity": 0,
+      "Origins": ["요들"],
+      "Classes": ["경호대"],
+      "RecommendedItems": ["가고일 돌갑옷","덤불조끼","이온 충격기","즈롯 차원문"],
+      "SkillName" : "방패 던지기",
+      "SkillDescription" : "뽀삐가 가장 멀리 있는 적에게 방패를 던져 방어력에 비례하는 마법 피해를 입힙니다. 방패는 다시 돌아와 뽀삐에게 피해를 흡수하는 보호막을 부여합니다."
+    },
+
+    {
+      "Name": "Singed",
+      "KoreanName" : "신지드",
+      "RiotName": "TFT_Singed",
+      "Rarity": 0,
+      "Origins": ["화학공학"],
+      "Classes": ["혁신가"],
+      "RecommendedItems": ["가고일 돌갑옷","구원","덤불 조끼","워모그의 갑옷"],
+      "SkillName" : "던져 넘기기",
+      "SkillDescription" : "신지드가 근처의 적을 가장 큰 적 무리에게 던져 잠시 동안 기절시킵니다. 인접한 모든 적은 마법 피해를 입고 잠시 기절합니다."
+    },
+
+    {
+      "Name": "Ezreal",
+      "KoreanName" : "이즈리얼",
+      "RiotName": "TFT_Ezreal",
+      "Rarity": 0,
+      "Origins": ["고물상"],
+      "Classes": ["혁신가"],
+      "RecommendedItems": ["루난의 허리케인","무한의 대검","스태틱의 단검","최후의 속삭임"],
+      "SkillName" : "신비한 화살",
+      "SkillDescription" : "이즈리얼이 대상에게 미사일을 발사하여 공격력의 150%+추가 물리 피해를 입힙니다. 만약 미사일이 적중하면 중첩 가능한 추가 공격 속도를 20%만큼 획득하며 5 중첩에서 최대 100%만큼 공격 속도를 얻습니다."
+    },
+
+    {
+      "Name": "Ilaoi",
+      "KoreanName" : "일라오이",
+      "RiotName": "TFT_Ilaoi",
+      "Rarity": 0,
+      "Origins": ["용병"],
+      "Classes": ["난동꾼"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","밴시의 발톱","서풍","즈롯 차원문"],
+      "SkillName" : "혹독한 가르침",
+      "SkillDescription" : "일라오이가 대상을 내리쳐 5초 동안 자신의 영혼과 연결하고 마법 피해를 입힙니다. 연결 상태에서 일라오이는 대상이 받는 피해에 비례한 만큼 체력을 회복합니다."
+    },
+
+    {
+      "Name": "JarvanIV",
+      "KoreanName" : "자르반 4세",
+      "RiotName": "TFT_JarvanIV",
+      "Rarity": 0,
+      "Origins": ["마법공학"],
+      "Classes": ["타격대"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","밴시의 발톱","서풍","지크의 전령"],
+      "SkillName" : "영겁의 깃발",
+      "SkillDescription" : "자르반 4세가 근처에 깃발을 던져 5초 동안 3칸 내 모든 아군의 공격 속도를 상승시킵니다."
+    },
+
+    {
+      "Name": "Ziggs",
+      "KoreanName" : "직스",
+      "RiotName": "TFT_Ziggs",
+      "Rarity": 0,
+      "Origins": ["고물상"],
+      "Classes": ["요들"],
+      "RecommendedItems": ["밴시의 발톱","서풍","쓸데없이 큰 지팡이","지크의 전령"],
+      "SkillName" : "소형 지옥 화염 폭탄",
+      "SkillDescription" : "직스가 대상에게 폭탄을 던집니다. 잠시 후 폭탄이 떨어져 중심에 있는 적에게 마법 피해를 입히고 인접한 적에게는 50%의 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Camile",
+      "KoreanName" : "카밀",
+      "RiotName": "TFT_Camile",
+      "Rarity": 0,
+      "Origins": ["시계태엽"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["서풍","덤불 조끼","용의 발톱","워모그의 갑옷"],
+      "SkillName" : "소형 지옥 화염 폭탄",
+      "SkillDescription" : "직스가 대상에게 폭탄을 던집니다. 잠시 후 폭탄이 떨어져 중심에 있는 적에게 마법 피해를 입히고 인접한 적에게는 50%의 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Kassadin",
+      "KoreanName" : "카사딘",
+      "RiotName": "TFT_Kassadin",
+      "Rarity": 0,
+      "Origins": ["돌연변이"],
+      "Classes": ["학자"],
+      "RecommendedItems": ["난동꾼 상징","밴시의 발톱","서풍","즈롯 차원문"],
+      "SkillName" : "무의 구체",
+      "SkillDescription" : "카사딘이 대상에게 공허 구체를 발사하여 마법 피해를 입힙니다. 구체에 적중당한 적들은 다음 스킬 사용에 필요한 마나 비용이 50% 증가합니다. 또한 5초 동안 카사딘이 받는 피해가 보호막을 얻고 받는 피해가 25% 감소합니다."
+    },
+
+    {
+      "Name": "Caitlyn",
+      "KoreanName" : "케이틀린",
+      "RiotName": "TFT_Caitlyn",
+      "Rarity": 0,
+      "Origins": ["집행자"],
+      "Classes": ["저격수"],
+      "RecommendedItems": ["밴시의 발톱","서풍","쇼진의 창","지크의 전령"],
+      "SkillName" : "비장의 한 발",
+      "SkillDescription" : "케이틀린이 가장 멀리 있는 적을 향해 강력한 총알을 발사합니다. 총알은 처음 적중한 적에게 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Twich",
+      "KoreanName" : "트위치",
+      "RiotName": "TFT_Twich",
+      "Rarity": 0,
+      "Origins": ["화학공학"],
+      "Classes": ["암살자"],
+      "RecommendedItems": ["거인 학살자","루난의 허리케인","무한의 대검","죽음의 검"],
+      "SkillName" : "관통 화살",
+      "SkillDescription" : "트위치가 적을 관통하는 강력한 화살을 대상에게 발사하여 공격력에 비례하는 물리 피해에 추가 물리 피해를 입히고 5초 동안 대상의 회복 효과가 50% 감소합니다."
+    }
+  ]
+}
